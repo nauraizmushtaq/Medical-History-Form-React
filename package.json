@@ -16,7 +16,7 @@
     "react-alerts-plus": "^1.0.0",
     "react-autosize-textarea": "^7.0.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "react-textarea-autosize": "^7.1.2",
     "react-toast-notifications": "^2.4.0",
     "react-toastify": "^5.5.0"
